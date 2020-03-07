@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="urn:com:docsascodeasdocs:dita:rng:dacad-concept.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="urn:com:docsascodeasdocs:dita:rng:dacad-concept.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="urn:com:docsascodeasdocs:dita:sch:dacadDuster.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<concept id="concept_crh_dy3_ykb">
+    <title>Overview</title>
+    <shortdesc>Docs as Code as Docs is a docs-as-code system that produces documentation of itself. </shortdesc>
+    <conbody>
+        <p>The project gives particular emphasis to demonstrating docs-as-code  principles and practices as suitable for enterprise-level software organizations.</p>
+
+    </conbody>
+</concept>

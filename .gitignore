@@ -1,0 +1,6 @@
+.DS_Store
+/dita-ot-3*
+*.py[cow]
+/out
+/temp*
+/docs-source

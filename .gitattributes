@@ -1,0 +1,45 @@
+# Source files
+# ============
+
+text=auto
+
+.gitattributes  text
+.gitignore      text
+*.dita          text
+*.ditamap       text
+*.html          text
+*.md            text
+*.properties    text
+*.py            text diff=python
+*.rng           text
+*.sch           text
+*.xml           text
+*.xsl           text
+*.xspec         text
+
+*.dita     linguist-detectable=true
+*.ditamap  linguist-detectable=true
+*.ditaval  linguist-detectable=true
+*.rng      linguist-detectable=true
+*.sch      linguist-detectable=true
+*.xml      linguist-detectable=true
+*.xsl      linguist-detectable=true
+*.xspec    linguist-detectable=true
+
+*.dita     linguist-language=XML
+*.ditamap  linguist-language=XML
+*.ditaval  linguist-language=XML
+*.rng      linguist-language=XML
+*.sch      linguist-language=Scheme
+*.xml      linguist-language=XML
+*.xsl      linguist-language=XSLT
+*.xspec    linguist-language=XSLT
+
+# Binary files
+# ===========
+
+*.png  binary
+
+
+com.docsascodeasdocs.markdown.dacad-npm/*  linguist-documentation=false
+com.docsascodeasdocs.dita.doctypes/*       linguist-documentation=false
